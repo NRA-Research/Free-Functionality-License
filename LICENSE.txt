@@ -1,0 +1,44 @@
+Free-Functionality License
+
+Copyright (c) [Year] [Licensor's Name]
+
+Permission is hereby granted, free of charge, to any individual or organization ("Licensee")
+obtaining a copy of this software and associated documentation (the "Software"), to use, modify,
+merge, distribute, sublicense, and incorporate into proprietary and commercial software, subject
+to the following conditions:
+
+- Free Functionality Requirement: Any functionality, capability, service, or feature directly or
+indirectly enabled, facilitated, or substantially dependent upon the Software must remain
+accessible to end-users at no monetary cost. Licensees may not charge end-users specifically or
+indirectly (e.g., via paywalls, subscriptions, licenses, or usage fees, or through the use of
+user-level systems, points-based growth systems, or any other mechanism intended to limit or
+restrict user access) for any functionality or capability that would not exist or properly function
+without this Software.
+
+- Source Availability Requirement: The Software, including all modifications, must have its source
+code available to users. Users must have access to the source code of the Software and any
+modifications thereof, and these must remain freely available under the same terms and conditions
+set forth herein.
+
+- Attribution Requirement: The Licensee must clearly attribute the original author(s) of the
+Software in any derivative work, documentation, or distribution that incorporates or relies upon
+the Software, including proprietary software distributions.
+
+- No Restrictions on Other Components: This License places no restrictions on other separate
+functionalities or components within the Licensee's software or distribution that are neither
+directly nor indirectly dependent on this Software. Such separate components may be proprietary,
+monetized, or otherwise subject to payment.
+
+- Redistribution Requirement: Redistribution of the Software, in source or binary form, must retain
+the above copyright notice and this list of conditions. Redistributions in binary form must
+reproduce these notices and conditions and the following disclaimer in the documentation and/or
+other materials provided with the distribution.
+
+- No Warranty: THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+By using or distributing this Software, you accept and agree to comply with the terms and
+conditions stated herein.
