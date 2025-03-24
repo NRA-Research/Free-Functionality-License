@@ -1,10 +1,10 @@
 # Free-Functionality-License
 
-Welcome to the official homepage of the Free-Functionality License.
 
 ## Purpose
 
-The Free-Functionality License is intended for software developers who wish to allow commercial use of their software while ensuring functionalities directly or indirectly dependent upon it remain freely accessible to users.
+A license permitting **commercial** and **proprietary** use while ensuring enabled functionalities remain **free (no-charge)**. Requires **open source code** availability only for licensed components, remaining **non-restrictive** for other proprietary or commercial parts, which can remain closed-source and monetized.
+
 
 ## Key Features
 
@@ -24,6 +24,11 @@ To use this license:
 ### Can I use software under this license in commercial applications?
 
 Yes, provided you comply with the conditions, especially the requirement that enabled functionality remains free.
+
+### Do all parts of my software need to be openly available under this license?
+
+No. Only the licensed components and any modifications to them must remain openly available. Other parts of your software can remain proprietary, closed-source, and monetized.
+
 
 ### Is this license OSI-approved?
 
