@@ -23,7 +23,7 @@ To use this license, copy it into your project's LICENSE file and replace placeh
 
 ## Website
 
-For more details, visit the [Free-Functionality License website](https://your-username.github.io/free-functionality-license).
+For more details, visit the [Free-Functionality License website](https://numera-research.github.io/Free-Functionality-License/).
 
 ## Contribution
 
