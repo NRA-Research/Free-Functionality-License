@@ -16,7 +16,7 @@ The Free-Functionality License is intended for software developers who wish to a
 
 To use this license:
 
-1. [Read the full license text](../LICENSE.txt)
+1. [Read the full license text](https://github.com/NumeRA-Research/Free-Functionality-License/blob/main/LICENSE.txt)
 2. Replace placeholders `[Year]` and `[Licensor's Name]` with your own information.
 
 ## Frequently Asked Questions
