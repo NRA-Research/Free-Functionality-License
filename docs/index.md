@@ -16,7 +16,7 @@ A license permitting **commercial** and **proprietary** use while ensuring enabl
 
 To use this license:
 
-1. [Read the full license text](https://github.com/NumeRA-Research/Free-Functionality-License/blob/main/LICENSE.txt)
+1. [Read the full license text](https://github.com/NRA-Research/Free-Functionality-License/blob/main/LICENSE.txt)
 2. Replace placeholders `[Year]` and `[Licensor's Name]` with your own information.
 
 ## Frequently Asked Questions
@@ -36,4 +36,4 @@ No, this license does not align with the official open-source definition of the 
 
 ## Contributing
 
-Suggestions and contributions to refine and improve this license are encouraged. Feel free to open an issue or submit a pull request on [GitHub](https://github.com/NumeRA-Research/Free-Functionality-License).
+Suggestions and contributions to refine and improve this license are encouraged. Feel free to open an issue or submit a pull request on [GitHub](https://github.com/NRA-Research/Free-Functionality-License).
